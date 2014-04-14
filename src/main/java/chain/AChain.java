@@ -6,7 +6,7 @@ public class AChain extends Chain {
 	public void execute() {
 		System.out.println("AChain");
 		next.execute();
-	}
+	}  
 
 	
 }
